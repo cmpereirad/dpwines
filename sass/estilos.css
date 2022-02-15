@@ -1,0 +1,33 @@
+.video {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: auto;
+  z-index: -10;
+  visibility: visible;
+}
+
+.fontTitulo {
+  position: relative;
+  margin-top: 35%;
+}
+
+.fontTitulo {
+  color: floralwhite;
+  font-size: 70px !important;
+}
+
+.fontTitulo {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.fontTitulo {
+  font-family: 'Qwitcher Grypen', cursive  !important;
+}
+/*# sourceMappingURL=estilos.css.map */

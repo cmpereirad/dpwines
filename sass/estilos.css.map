@@ -1,0 +1,16 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,MAAM,CAAC;EACH,QAAQ,EAAE,KAAK;EACf,IAAI,EAAE,CAAC;EACP,GAAG,EAAE,CAAC;EACN,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;EACZ,OAAO,EAAE,GAAG;EACZ,UAAU,EAAE,OAAO;CAClB;;AERL,AAAA,WAAW,CAAA;EACP,QAAQ,EAAE,QAAQ;EAClB,UAAU,EAAE,GAAG;CAClB;;ACHD,AAAA,WAAW,CAAA;EACP,KAAK,EAAC,WAAW;EACjB,SAAS,EAAC,eAAe;CAC5B;;ACHD,AAAA,WAAW,CAAA;EACP,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,MAAM;CAC1B;;ACHD,AAAA,WAAW,CAAA;EACP,WAAW,EAAE,sCAAsC;CACtD",
+    "sources": [
+        "estilos.scss",
+        "_video.scss",
+        "_animaciones.scss",
+        "_box.scss",
+        "_color.scss",
+        "_flex.scss",
+        "_font.scss",
+        "_img.scss"
+    ],
+    "names": [],
+    "file": "estilos.css"
+}
