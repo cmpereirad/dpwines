@@ -30,9 +30,7 @@ video {
     left: 0;
     top: 0px;
     width: 100%;
-    height: -webkit-fit-content;
-    height: -moz-fit-content;
-    height: fit-content;
+    height: 100%;
     z-index: -10;
     visibility: visible;
   }
