@@ -1,3 +1,10 @@
 .fontTitulo{
-    margin-top: 50%;
+    position: relative;
+    top: 500px;
+}
+@media (max-width: 500px){
+    .fontTitulo{
+    position: relative;
+    top: 500px;
+    }
 }
